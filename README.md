@@ -1,5 +1,5 @@
 # Scratch-Lessons
-Games i made students build:
+Helped students build these games:
 - [Pong](https://scratch.mit.edu/projects/1075515328/)
 - [ShipBeta](https://scratch.mit.edu/projects/1087299139/)
 - [Monster Shooter](https://scratch.mit.edu/projects/1085386895/)
