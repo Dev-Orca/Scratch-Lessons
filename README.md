@@ -1,8 +1,25 @@
 # Scratch-Lessons
 Helped students build these games:
 - [Pong](https://scratch.mit.edu/projects/1075515328/)
+  - Students learned how to:
+  - Integrate 2 player movements using WASD and arrow keys
+  - Randomized variables
+  - If conditions and loops
 - [ShipBeta](https://scratch.mit.edu/projects/1087299139/)
+  - Students learned how to:
+  - Spawn new objects from desired positions
+  - Collisions
 - [Monster Shooter](https://scratch.mit.edu/projects/1085386895/)
+  - Students learned how to:
+  - Make animations with code only
+  - Game UI
 - [Flappy Bird](https://scratch.mit.edu/projects/1099286345/)
+  - Students learned how to:
+  - Make endless maps
+  - Integrate gravity
 - [ShipDone](https://scratch.mit.edu/projects/1124723973/)
+  - Students learned how to:
+  - Make a score counter
+  - Health bars
+  - Better animations
 - ect.
